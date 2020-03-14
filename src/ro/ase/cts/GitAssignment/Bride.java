@@ -14,7 +14,7 @@ public class Bride implements Wedding {
 
 	@Override
 	public void showWeddingDate() {
-		System.out.println(name + "has whe wedding in the summer of 2020");
+		System.out.println(name + "has the wedding in the summer of 2020");
 		
 	};
 	
